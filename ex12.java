@@ -6,9 +6,10 @@ public class ex12 {
 
         int num;
         int divisor;
-        System.out.println("introdueix el numero");
-        num = ent.nextInt();
 
+        System.out.println("introdueix el numero");
+
+        num = ent.nextInt();
         divisor = 2;
 
         for (int i = 0; i <= 10; i++) {
